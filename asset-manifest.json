@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14f5fd7d.css",
+    "main.js": "/static/js/main.2e4d964a.js",
+    "static/js/787.db17e819.chunk.js": "/static/js/787.db17e819.chunk.js",
+    "static/media/home-gif.gif": "/static/media/home-gif.9b851c74869040b3477e.gif",
+    "static/media/login.gif": "/static/media/login.7ec7e93c0b56b2910226.gif",
+    "static/media/home-bg-1.jpg": "/static/media/home-bg-1.4358968aeae2081e7ad7.jpg",
+    "static/media/todo_list.png": "/static/media/todo_list.c19c7216c503bb205989.png",
+    "static/media/bonbon-online-meeting-hands-doing-work-tasks-1.png": "/static/media/bonbon-online-meeting-hands-doing-work-tasks-1.a584770288aaca20e16b.png",
+    "static/media/quirky-refresh-symbol-1.png": "/static/media/quirky-refresh-symbol-1.4387233c17f99d7519b9.png",
+    "static/media/clip-147.png": "/static/media/clip-147.becf9856f064a47a3829.png",
+    "static/media/dazzle-task-management.png": "/static/media/dazzle-task-management.99c0be9623860fb5eadc.png",
+    "index.html": "/index.html",
+    "main.14f5fd7d.css.map": "/static/css/main.14f5fd7d.css.map",
+    "main.2e4d964a.js.map": "/static/js/main.2e4d964a.js.map",
+    "787.db17e819.chunk.js.map": "/static/js/787.db17e819.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14f5fd7d.css",
+    "static/js/main.2e4d964a.js"
+  ]
+}
